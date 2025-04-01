@@ -18,3 +18,7 @@ Figure 4
 Figure 5
 -----------
 ![Figure5](figures/figure5.jpg)
+
+Figure 6
+-----------
+![Figure6](figures/figure6.jpg)
