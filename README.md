@@ -23,3 +23,7 @@ Figure 6
 -----------
 ![Figure6](figures/figure6.jpg)
 
+Figure 7
+-----------
+![Figure7](figures/figure7.png)
+
